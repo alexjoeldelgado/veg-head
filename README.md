@@ -47,7 +47,7 @@ The recipe search works similarly returning recipes using the edamam api and pop
 ### Installation
 No installation necessary. The program is ready to run.
 
-https://yarocruz.github.io/veg-head/
+https://alexjoeldelgado.github.io/veg-head/
 
 
 #### Authors
